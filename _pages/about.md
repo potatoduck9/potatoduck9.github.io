@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-Education
+## Education
 ======
 **Undergraduate coursework in International Trade**
 - Mar. 2018 – Feb. 2019 | Mokpo National University, Mokpo, Republic of Korea  
