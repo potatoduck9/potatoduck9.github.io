@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "DeogHwa KIM"
+title: /
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,8 +14,8 @@ Education
 - Mar. 2018 – Feb. 2019 | Mokpo National University, Mokpo, Republic of Korea  
 - GPA: 3.64 / 4.50  
 
-**B.S. in Computer Science (transferred)**
-- Mar. 2021 – Feb. 2024 | Korea National Open University, Seoul, Republic of Korea
+**B.S. in Computer Science**
+- Mar. 2021 (transferred) – Feb. 2024 | Korea National Open University, Seoul, Republic of Korea
 - GPA: 4.40 / 4.50  
 
 **M.S. in Electrical and Computer Engineering**
