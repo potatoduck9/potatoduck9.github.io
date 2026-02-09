@@ -11,18 +11,18 @@ redirect_from:
 Education
 ======
 **Undergraduate coursework in International Trade**
-Mar. 2018 – Feb. 2019 | Mokpo National University, Mokpo, Republic of Korea  
-GPA: 3.64 / 4.50  
+- Mar. 2018 – Feb. 2019 | Mokpo National University, Mokpo, Republic of Korea  
+- GPA: 3.64 / 4.50  
 
 **B.S. in Computer Science (transferred)**
-Mar. 2021 – Feb. 2024 | Korea National Open University, Seoul, Republic of Korea
-GPA: 4.40 / 4.50  
+- Mar. 2021 – Feb. 2024 | Korea National Open University, Seoul, Republic of Korea
+- GPA: 4.40 / 4.50  
 
 **M.S. in Electrical and Computer Engineering**
-Mar. 2024 – Feb. 2026 | Inha University, Incheon, Republic of Korea
-Advisor: Deok-Hwan KIM, Ph.D.  
-IESL Lab: https://sites.google.com/view/iesl-inha-lab/home  
-GPA: 4.13 / 4.50  
+- Mar. 2024 – Feb. 2026 | Inha University, Incheon, Republic of Korea
+- Advisor: Deok-Hwan KIM, Ph.D.  
+- IESL Lab: https://sites.google.com/view/iesl-inha-lab/home  
+- GPA: 4.13 / 4.50  
 
 
 Research Interests
