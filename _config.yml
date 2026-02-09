@@ -22,7 +22,7 @@ repository               : "potatoduck9/potatoduck9.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/github_image.jpg"
+  avatar           : "https://potatoduck9.github.io/images/github_image.jpg"
   name             : "DeogHwa KIM"
   pronouns         : # example: "she/her"  
   bio              : "Multimodal Emotion Recognition | Knowledge Distillation"
