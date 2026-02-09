@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: /
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,7 @@ Education
 **M.S. in Electrical and Computer Engineering**
 - Mar. 2024 – Feb. 2026 | Inha University, Incheon, Republic of Korea
 - Advisor: Deok-Hwan KIM, Ph.D.  
-- IESL Lab: https://sites.google.com/view/iesl-inha-lab/home  
+- IESL Lab: [Intelligent Embedded Systems Lab](https://sites.google.com/view/iesl-inha-lab/home)  
 - GPA: 4.13 / 4.50  
 
 
