@@ -42,11 +42,11 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 
 ## Publications (Conference)
 
-### International Conference
+### International Conferences
 1. **DeogHwa KIM**, Han Wang, Deok-Hwan KIM*, "Multimodal Emotion Recognition based on Feature-level fusion of Facial Expression-Audio Modalities," International Conference on Next Generation Computing (ICNGC), pp. 187-190, November 2024. (Oral Session; in Clark, Philippines)
 2.  **DeogHwa KIM**, Jikyu Park, Deok-Hwan KIM*, "MERC-KDC: Multimodal Emotion Recognition in Conversation Via Knowledge Distillation and Contrastive Learning," International Conference on Ubiquitous and Future Networks (ICUFN), pp. 480-485, July 2025. (Oral Session; in Lisbon, Portugal)
 
-### Domestic Conference
+### Domestic Conferences
 1. **DeogHwa KIM**, Deok-Hwan KIM*, "MediaPipe Hand model-based sign language video hand joint recognition and LSTM-based data learning," Korean Institute of Next Generation Computing, pp. 99-102, April 2024. (Oral Session; in Chungju, Republic of Korea)
 2. Seong Jun Kwon, Seo Young Yun, Yu Il Lee, **DeogHwa KIM**, Deok-Hwan KIM*, "Study on Multi-Modal Emotion Recognition in Edge Computing Systems," Korean Institute of Information Scientists and Engineers, pp. 1686-1688, December 2024. (Poster Session; in Yeosu, Republic of Korea)
 3. HaeDam Shin, **DeogHwa KIM**, Deok-Hwan KIM*, "Lightweight Deep Learning Model using Response-based Class-wise Adaptive Temperature Knowledge Distillation," Korean Institute of Next Generation Computing, pp. 236-239, May 2025. (Oral Session; in Asan, Republic of Korea)
