@@ -69,14 +69,13 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 ## Awards
 
 **Academic Excellence Award**
-- **DeogHwa KIM** (Korea National Open University, 2024)
+- Korea National Open University (2024)
 
 **Lifelong Learning Award**
-- **DeogHwa KIM** (Korea National Open University, 2024)
+- Korea National Open University (2024)
 
 **Honorable Mention Award**
-- Jikyu Park, **DeogHwa KIM**, Han Wang (Embedded Software Contest 2024)
-- **DeogHwa KIM**, ChaeYeon SONG, Min KIM, HaeDam Shin (Embedded Software Contest 2025)
+- Embedded Software Contest, Embedded Software Contest (2024, 2025)
 
 
 
