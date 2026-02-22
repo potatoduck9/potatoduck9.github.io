@@ -33,7 +33,7 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 
 ### International Journals
 1. **DeogHwa KIM**, Deok-Hwan KIM*, "DualDistill: Self and Cross-modal Knowledge Distillation for Multimodal Emotion Recognition in Conversation," revision at Elsevier ICT Express (Impact Factor = 4.2)
-2. **DeogHwa KIM**, Yu il LEE, Da Hyun YOON, Byeong Jun KIM, Deok-Hwan KIM*, "Dual-Distillation Vision-Language Model for Multimodal Emotion Recognition in Conversation with Quantized Edge Deployment," Under Review at MDPI Applied Sciences (Impact Factor = 2.5)
+2. **DeogHwa KIM**, Yu Il LEE, Da Hyun YOON, Byeong Jun KIM, Deok-Hwan KIM*, "Dual-Distillation Vision-Language Model for Multimodal Emotion Recognition in Conversation with Quantized Edge Deployment," Under Review at MDPI Applied Sciences (Impact Factor = 2.5)
 
 ### Domestic Journals
 1. Han WANG, **DeogHwa KIM**,  Deok-Hwan KIM*, "Enhancing Speech Emotion Recognition with Hybrid Graph Neural Networks : A GCN-GAT Framework," The Journal of Korean Institute of Next Generation Computing, vol. 20, pp. 7-20, August 2024.
@@ -52,7 +52,7 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 
 
 ## Patents
-1. Deok-Hwan KIM, hyunjun JO, Jikyu PARK, **DeogHwa KIM**, Han WANG, "A Training and Inference Framework for a Transformer-Based CAN Intrusion Detection System," December 2024. (Computer Program, C-2024-051153)
+1. Deok-Hwan KIM, HyunJun JO, Jikyu PARK, **DeogHwa KIM**, Han WANG, "A Training and Inference Framework for a Transformer-Based CAN Intrusion Detection System," December 2024. (Computer Program, C-2024-051153)
 2. Deok-Hwan KIM, Han WANG, **DeogHwa KIM**, "Computer Device for Speech Emotion Recognition with Hybrid Graph Neural Networks GCN-GAT Framework," August 2025. (Domestic Patent Application, 10-2025-0113351)
 
 
@@ -67,7 +67,6 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 
 
 ## Awards
-
 **Academic Excellence Award**
 - Korea National Open University (2024)
 
