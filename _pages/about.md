@@ -75,7 +75,7 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 - Korea National Open University (2024)
 
 **Honorable Mention Award**
-- Embedded Software Contest, Embedded Software Contest (2024, 2025)
+- Embedded Software Contest (2024, 2025)
 
 
 
