@@ -25,12 +25,10 @@ redirect_from:
 
 
 ## Research Interests
-
 Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interaction (HCI), Model Compression and Efficient AI
 
 
 ## Publications & Under Review (Journal)
-
 \* (Corresponding Author)
 
 ### International Journals
@@ -69,10 +67,15 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 
 
 ## Awards
-- Honorable Mention Award | Jikyu Park, **DeogHwa KIM**, Han Wang (Embedded Software Contest 2024)
-- Honorable Mention Award | **DeogHwa KIM**, ChaeYeon SONG, Min KIM, HaeDam Shin (Embedded Software Contest 2025)
+**Academic Excellence Award**
+- **DeogHwa KIM** (Korea National Open University, 2024)
+**Lifelong Learning Award**
+- **DeogHwa KIM** (Korea National Open University, 2024)
+**Honorable Mention Award**
+- Jikyu Park, **DeogHwa KIM**, Han Wang (Embedded Software Contest 2024)
+- **DeogHwa KIM**, ChaeYeon SONG, Min KIM, HaeDam Shin (Embedded Software Contest 2025)
 
-## Scholarship
+
 
 
 
