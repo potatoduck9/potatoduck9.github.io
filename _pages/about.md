@@ -50,18 +50,30 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 1. **DeogHwa KIM**, Deok-Hwan KIM*, "MediaPipe Hand model-based sign language video hand joint recognition and LSTM-based data learning," Korean Institute of Next Generation Computing, pp. 99-102, April 2024. (Oral Session; in Chungju, Republic of Korea)
 2. Seong Jun Kwon, Seo Young Yun, Yu Il Lee, **DeogHwa KIM**, Deok-Hwan KIM*, "Study on Multi-Modal Emotion Recognition in Edge Computing Systems," Korean Institute of Information Scientists and Engineers, pp. 1686-1688, December 2024. (Poster Session; in Yeosu, Republic of Korea)
 3. HaeDam Shin, **DeogHwa KIM**, Deok-Hwan KIM*, "Lightweight Deep Learning Model using Response-based Class-wise Adaptive Temperature Knowledge Distillation," Korean Institute of Next Generation Computing, pp. 236-239, May 2025. (Oral Session; in Asan, Republic of Korea)
-4. Min KIM, **DeogHwa KIM**, Deok-Hwan KIM*, "Jetson-Based Facial Emotion Recognition using Edge-Cloud Offloading," The Institute of Electronics and Information Engineers, PP. 1207-1211, November 2025. (Oral Session; in Gyeonggi-do, Republic of Korea)
+4. Min KIM, **DeogHwa KIM**, Deok-Hwan KIM*, "Jetson-Based Facial Emotion Recognition using Edge-Cloud Offloading," The Institute of Electronics and Information Engineers, pp. 1207-1211, November 2025. (Oral Session; in Gyeonggi-do, Republic of Korea)
 
 
 ## Patents
+1. Deok-Hwan KIM, Jo hyunjun, Jikyu Park, **DeogHwa KIM**, Han Wang, "A Training and Inference Framework for a Transformer-Based CAN Intrusion Detection System," December 2024. (Computer Program, C-2024-051153)
+2. Deok-Hwan KIM, Han Wang, **DeogHwa KIM**, "Computer Device for Speech Emotion Recognition with Hybrid Graph Neural Networks GCN-GAT Framework," August 2025. (Domestic Patent Application, 10-2025-0113351)
 
 
 ## Projects
+<!-- 소중대, 임베디드, NRF 기입 예정 -->
 
 
 ## Teaching Experience
+- C++ Programming (Learning Assistant, Spring 2024)
+- C++ Programming (Learning Assistant, Fall 2024)
+- Capstone Design in Electrical Electronic (Learning Assistant, Spring 2025)
 
 
-## Awards & Scholarship
+## Awards
+- Honorable Mention Award | Jikyu Park, **DeogHwa KIM**, Han Wang (Embedded Software Contest 2024)
+- Honorable Mention Award | **DeogHwa KIM**, ChaeYeon SONG, Min KIM, HaeDam Shin (Embedded Software Contest 2025)
+
+## Scholarship
+
+
 
 
