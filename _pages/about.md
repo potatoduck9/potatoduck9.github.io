@@ -58,7 +58,7 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 
 ## Projects
 **National Research Foundation of Korea**  
-- Project: A Study on multimodal AI based Speech and Emotion Assistant Solutionin Edge Computing Environment
+- Project: A Study on multimodal AI based Speech and Emotion Assistant Solution in Edge Computing Environment
 
 **Inha University Software-Centered University Support Program**  
 - Project: Knowledge Distillation and Multimodal Learning Model for Conversational Emotion Recognition
