@@ -32,8 +32,8 @@ Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interac
 \* (Corresponding Author)
 
 ### International Journals
-1. **DeogHwa KIM**, Deok-Hwan KIM*, "DualDistill: Self and Cross-modal Knowledge Distillation for Multimodal Emotion Recognition in Conversation," revision at Elsevier ICT Express (Impact Factor = 4.2)
-2. **DeogHwa KIM**, Yu Il LEE, Da Hyun YOON, Byeong Jun KIM, Deok-Hwan KIM*, "[Dual-Distillation Vision-Language Model for Multimodal Emotion Recognition in Conversation with Quantized Edge Deployment](https://www.mdpi.com/2076-3417/16/6/3103)," Applied Sciences, vol. 16(6), pp. 3103, March 2026. (Impact Factor = 2.5)
+1. **DeogHwa KIM**, Deok-Hwan KIM*, "[DualDistill: Self and Cross-modal Knowledge Distillation for Multimodal Emotion Recognition in Conversation](https://www.sciencedirect.com/science/article/pii/S2405959526000664)," ICT Express (Impact Factor = 4.6)
+2. **DeogHwa KIM**, Yu Il LEE, Da Hyun YOON, Byeong Jun KIM, Deok-Hwan KIM*, "[Dual-Distillation Vision-Language Model for Multimodal Emotion Recognition in Conversation with Quantized Edge Deployment](https://www.mdpi.com/2076-3417/16/6/3103)," Applied Sciences, vol. 16(6), pp. 3103, March 2026. (Impact Factor = 2.9)
 
 ### Domestic Journals
 1. Han WANG, **DeogHwa KIM**,  Deok-Hwan KIM*, "Enhancing Speech Emotion Recognition with Hybrid Graph Neural Networks : A GCN-GAT Framework," The Journal of Korean Institute of Next Generation Computing, vol. 20, pp. 7-20, August 2024.
