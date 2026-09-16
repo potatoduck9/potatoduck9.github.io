@@ -25,7 +25,7 @@ redirect_from:
 
 
 ## Research Interests
-Multimodal Emotion Recognition, Knowledge Distillation, Human–Computer Interaction (HCI), Model Compression and Efficient AI
+Multimodal Emotion Recognition in Conversation, Knowledge Distillation, Human–Computer Interaction (HCI), Model Compression and Efficient AI
 
 
 ## Publications & Under Review (Journal)
