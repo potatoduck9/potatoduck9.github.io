@@ -24,10 +24,6 @@ redirect_from:
 - GPA: 4.13 / 4.50  
 
 
-## Research Interests
-Multimodal Emotion Recognition in Conversation, Knowledge Distillation, Human–Computer Interaction (HCI), Model Compression and Efficient AI
-
-
 ## Publications & Under Review (Journal)
 \* (Corresponding Author)
 
@@ -80,4 +76,5 @@ Multimodal Emotion Recognition in Conversation, Knowledge Distillation, Human–
 - Embedded Software Contest (2024, 2025)
 
 
-
+## Research Interests
+Multimodal Emotion Recognition in Conversation, Knowledge Distillation, Human–Computer Interaction (HCI), Model Compression and Efficient AI
